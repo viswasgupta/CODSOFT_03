@@ -26,7 +26,7 @@ Follow these steps to compile and run the program:
 
 ```sh
 javac BankAccount.java ATM.java Main.java
-```sh
-java Main
+
+
 
 
